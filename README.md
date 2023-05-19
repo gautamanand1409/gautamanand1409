@@ -23,3 +23,6 @@
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gautamanand1409&show_icons=true&locale=en&layout=compact" alt="gautamanand1409" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gautamanand1409&show_icons=true&locale=en" alt="gautamanand1409" /></p>
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
